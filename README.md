@@ -1,5 +1,5 @@
 # Hacktoberfest22-Data Science-Machine Learning
-<img width="1000" height="700" alt="image" src="https://user-images.githubusercontent.com/114735119/193413204-b4e86f8a-00b0-46e1-af8f-3ebdda6ea65d.png">
+<img width="1000" height="300" alt="image" src="https://user-images.githubusercontent.com/114735119/193413204-b4e86f8a-00b0-46e1-af8f-3ebdda6ea65d.png">
 
 ## About
 This Repository's sole purpose is to help beginners and as well as experienced people contribute to Data Science and Machine Learning. The repository consists of a large number of Data Science and Machine Learning implemented particularly in Python. Any other language is also accepted.
