@@ -1,5 +1,6 @@
 # Hacktoberfest22-Data Science-Machine Learning
-https://github.com/shivagandra/HacktoberFest-2022/blob/main/banner.png?raw=true
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/114735119/193413344-d7785bdd-0dfd-48e2-9a0a-c6e06ee6c6de.png">
+
 ## About
 This Repository's sole purpose is to help beginners and as well as experienced people contribute to Data Science and Machine Learning. The repository consists of a large number of Data Science and Machine Learning implemented particularly in Python. Any other language is also accepted.
 
