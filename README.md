@@ -1,11 +1,14 @@
-# Hacktoberfest22-Advanced-DSA 
+# Hacktoberfest22-Data Science-Machine Learning 
 ## About
-This Repository's sole purpose is to help beginners and as well as experienced people contribute to Open Source Programming. The repository consists of a large number of advanced DSA algorithms implemented particularly in JAVA. Any other language is also accepted.
+This Repository's sole purpose is to help beginners and as well as experienced people contribute to Data Science and Machine Learning. The repository consists of a large number of Data Science and Machine Learning implemented particularly in Python. Any other language is also accepted.
 
 Some of the topics include :
 
-* Big data
+* Data Visualization
 * Data Analytics
+* Data Warehouse 
+* Data Mining
+* Machine Learning
 
 
 As a part of Hacktoberfest Code of Conduct no spamming or irrelevant PRs will be accepted.
@@ -15,7 +18,7 @@ As a part of Hacktoberfest Code of Conduct no spamming or irrelevant PRs will be
 - Check for existing issues or create your own issues and wait for it to be assigned to you.
 - Fork the repository
 - Clone the forked repository to your local machine
-- Create a folder with the name of the data structure or algorithm or solution to a question you want to add if it is not present.
+- Create a folder with the name of the data analytics or Machine Learning or solution to a question you want to add if it is not present.
 - Add the code to that folder
 - Add a README.md file to the folder explaining the code with proper documentation
 - Open the command prompt and cd into the repository folder
